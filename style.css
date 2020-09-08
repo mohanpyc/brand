@@ -66,13 +66,13 @@ color: #eee;
 
 .quote-button{
     width: 20%;
-    margin-right: 50px;
+    
     float: left;
     
 }
 .quote-button button{
     padding: 10px;
-    margin-left: 30px;
+    margin-left: 150px;
     
     font-size:15px;
     color:#eee;
