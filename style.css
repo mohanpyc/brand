@@ -149,7 +149,8 @@ h2{
     margin-right:150px;
     width: 50%;
     height: 100%;
-    background:url(https://livedemo00.template-help.com/wt_prod-24944/images/swiper-img-1-773x632.png);
+    background-repeat: no-repeat;
+    background-image:url(https://livedemo00.template-help.com/wt_prod-24944/images/swiper-img-1-773x632.png);
 
 
 }
