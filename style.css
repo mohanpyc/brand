@@ -72,12 +72,20 @@ color: #eee;
 }
 .quote-button button{
     padding: 10px;
+    border:#eee  1px;
     margin-left: 150px;
-    
     font-size:15px;
     color:#eee;
     font-size:1em;
     background:orangered;
+}
+
+.quote-button button:hover{
+    transition: background .3s;
+    -webkit-transition: background .3s;
+    background-color: white;
+    color:orangered;
+    border:#eee .5px
 }
 
 .content{
