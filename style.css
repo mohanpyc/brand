@@ -156,8 +156,28 @@ h2{
 }
 
 .slide-buttons{
-    float: left;
-    height: 70px;
+   float: left;
+    height: 100px;
     width: 100%;
-    background:teal;
+   
+    text-align: center;
+}
+
+#slide1{
+    position: absolute;
+    margin-top:20px;
+    padding: 9px 11px;
+    color:orangered;
+    margin-left: 48%;
+    border:solid orangered 3px;
+    border-radius: 49%;
+}
+#slide2{
+    position: absolute;
+    margin-top:20px;
+    padding: 9px 11px;
+
+    margin-left: 52%;
+    border:solid orangered 3px;
+    border-radius: 49%;
 }
